@@ -1,0 +1,8 @@
+chmod +x setup.sh
+./setup.sh
+export GEMINI_API_KEY="AIzaSyBMSZXM6dCZnC3HblB6C35ezKo2K68YOIs_"
+
+AIzaSyBMSZXM6dCZnC3HblB6C35ezKo2K68YOIs
+
+
+groq = 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
